@@ -6,6 +6,9 @@
   h1 {
     color: #4e8d7c;
   }
+.circular{
+  border-radius: 100%;
+}
 
   hr {
     border-style: none;
